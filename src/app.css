@@ -1,0 +1,9 @@
+*, *::before, *::after { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  min-height: 100vh;
+  color: #0f161e;
+  font-family: 'Nunito', system-ui, sans-serif;
+  background: linear-gradient(161.3deg, #fff 59.65%, #c0e4ff 98.48%) fixed;
+}
+a { color: inherit; text-decoration: none; }

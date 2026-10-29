@@ -1,0 +1,26 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="72.8767" height="39.3928" viewBox="0 0 72.8767 39.3928" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Tugas" clip-path="url(#clip0_0_88)">
+<g id="Group 132" filter="url(#filter0_d_0_88)">
+<path id="Exclude" opacity="0.91" d="M41.4305 6.89274C45.8173 6.89274 49.3738 10.4492 49.3738 14.8361V24.5998C49.3738 28.9866 45.8173 32.5431 41.4305 32.5431H31.6678C27.2809 32.5431 23.7244 28.9866 23.7244 24.5998V14.8361C23.7244 10.4492 27.2809 6.89274 31.6678 6.89274H41.4305ZM31.5399 9.1359C28.4619 9.13601 25.9666 11.6311 25.9666 14.7091V24.7277C25.9667 27.8057 28.4619 30.3008 31.5399 30.3009H41.5584C44.6364 30.3009 47.1316 27.8057 47.1317 24.7277V14.7091C47.1317 11.6311 44.6364 9.13599 41.5584 9.1359H31.5399Z" fill="white"/>
+<path id="Vector 15" d="M29.4548 20.0627L30.8643 21.4058C31.0567 21.5892 31.3594 21.5885 31.5509 21.4043L34.8826 18.2004" stroke-width="1.98578" stroke-linecap="round" stroke="white"/>
+<path id="Vector 14" d="M36.5491 24.8243H42.9696" stroke-width="1.98578" stroke-linecap="round" stroke="white"/>
+<path id="Vector 12" d="M36.5491 14.5643H42.944" stroke-width="1.98578" stroke-linecap="round" stroke="white"/>
+<path id="Vector 13" d="M39.086 19.7176H42.9933" stroke-width="1.98578" stroke-linecap="round" stroke="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_88" x="19.9495" y="6.89274" width="33.1992" height="33.2002" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="3.77489"/>
+<feGaussianBlur stdDeviation="1.88744"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_88"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_88" result="shape"/>
+</filter>
+<clipPath id="clip0_0_88">
+<rect width="72.8767" height="39.3928" fill="white"/>
+</clipPath>
+</defs>
+</svg>
