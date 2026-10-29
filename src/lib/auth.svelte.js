@@ -5,7 +5,9 @@ import { saveProfile } from './profile.svelte.js';
 
 const USERS = 'sela-users';
 const SESSION = 'sela-session';
-const GOOGLE_CLIENT_ID = import.meta.env.VITE_GOOGLE_CLIENT_ID;
+const rawClientId = import.meta.env.VITE_GOOGLE_CLIENT_ID ?? '';
+// Abaikan nilai placeholder dari .env.production supaya tombol menampilkan pesan yang jelas.
+const GOOGLE_CLIENT_ID = rawClientId.startsWith('ISI_') ? '' : rawClientId;
 
 const read = (k, fallback) => {
   try {
